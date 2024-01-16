@@ -12,6 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License. Some change from feature demo2
 # Another change for feature demo2
+# BUG correction
 apiVersion: v1
 kind: Service
 metadata:
